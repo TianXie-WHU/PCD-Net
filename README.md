@@ -173,16 +173,8 @@ The repository includes only ten example records to demonstrate the input format
 
 If you use this code in your research, please cite:
 
-```bibtex
-@misc{xie2025mechanismcoupledsplitwindownetwork,
-  title={A Mechanism-Coupled Split Window Network for Medium- to High-Resolution Land Surface Temperature Retrieval},
-  author={Tian Xie and Menghui Jiang and Chao Zeng and Huifang Li and Guanhao Zhang and Chan Li and Huanfeng Shen},
-  year={2025},
-  eprint={2509.04991},
-  archivePrefix={arXiv},
-  primaryClass={physics.ao-ph},
-  url={https://arxiv.org/abs/2509.04991}
-}
+```
+Xie, T., Jiang, M., Zeng, C., Li, H., Zhang, G., Li, C., & Shen, H. (2026). A mechanism-coupled split-window network for medium- to high-resolution land surface temperature retrieval. Isprs Journal of Photogrammetry and Remote Sensing, 242, 250-270. https://doi.org/10.1016/j.isprsjprs.2026.09.002
 ```
 
 ## License
